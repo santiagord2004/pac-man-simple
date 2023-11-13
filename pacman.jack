@@ -1,0 +1,12 @@
+class Main {
+    function void main(){
+        var pacman figura;
+        var pacman figura2;
+        
+        do Output.moveCursor(0,0);
+
+        let figura = pacman.new(0);
+        let figura2 = pacman.new(100);
+        return;
+    }
+}
