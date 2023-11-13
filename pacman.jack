@@ -1,8 +1,8 @@
 
-class Dona {
+class pacman {
     field int location;
 
-    constructor Dona new(int location) {
+    constructor pacman new(int location) {
         let location = location;
         do dibujo(location);
         return this;
