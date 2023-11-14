@@ -5,8 +5,8 @@ class Main {
         
         do Output.moveCursor(0,0);
 
-        let figura = pacman.new(0);
-        let figura2 = pacman.new(100);
+        let figura = derecha.new(0);
+        let figura2 = Abajo.new(100);
         return;
     }
 }
